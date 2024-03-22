@@ -1,15 +1,20 @@
-SQL-Power-BI-Sales-Data-Analysis-Portfolio-Project
-Introduction
-Business Problem Statement:
+<h2>
+  SQL-Power-BI-Sales-Data-Analysis-Portfolio-Project<? </h2>
+<h3>Introduction</h3>
+<h4>Business Problem Statement:</h4>
+
 In this Superstore Sales Analysis portfolio project, we delve into the sales data of a superstore to optimize operations and enhance profitability. The primary focus areas include:
 
-1.Overview of Superstore Sales Dataset:
-Total number of orders
-Total sales
-Average profit
-2.Sales Performance Analysis:
-Identify top-selling products and categories
-Analyze sales trends and highlight significant patterns over the years
+<h4>
+  1.Overview of Superstore Sales Dataset: </h4>
+      1 Total number of orders
+      2 Total sales
+      3 Average profit
+<h4>
+    2.Sales Performance Analysis:
+</h4>
+      Identify top-selling products and categories
+      Analyze sales trends and highlight significant patterns over the years
 3.Customer Segmentation:
 Segment customers based on purchasing behavior
 Understand which segments contribute most to sales
